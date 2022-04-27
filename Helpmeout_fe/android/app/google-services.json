@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873927141120",
+    "project_id": "helpmeout-b2b55",
+    "storage_bucket": "helpmeout-b2b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873927141120:android:29fc4643a96a26497bb5e5",
+        "android_client_info": {
+          "package_name": "com.helpmeout_fe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873927141120-pf577tffg9od5rkgc42nbbeha6jbi0r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHo7t8RjB7fURkdLc9OGyiYD1HPF6cnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873927141120-pf577tffg9od5rkgc42nbbeha6jbi0r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
